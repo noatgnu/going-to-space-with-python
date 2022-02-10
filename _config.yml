@@ -1,22 +1,25 @@
 ---
-workshop_id:
+workshop_id: TP_UD_OCS_20220210_01
 topic: open-code
 title: Open Code Workshop
-instructors: []
-instructor_emails: []
+instructors:
+  - Toan Phung
+instructor_emails:
+  - tphung001@dundee.ac.uk
 helpers: []
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - python
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: University of Dundee
+address: null
+country: GB
+latitude: null
+longitude: null
+start_date: 2022-02-10T00:00:00.000Z
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
